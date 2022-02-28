@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+:root {
+  --blue: #226cdc;
+  --red: #fe0000;
+  --greem: #22dc92;
+  --white: #f3f3f3;
+  --dark: #232528;
+  --background: #f2f2f2;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: var(--background);
+  color: var(--Dark);
+  font-size: 16px;
+}
